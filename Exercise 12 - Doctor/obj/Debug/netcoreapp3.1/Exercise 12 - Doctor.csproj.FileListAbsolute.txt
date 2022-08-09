@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Exercise 12 - Doctor\bin\Debug\netcoreapp3.1\Exercise 12 - Doctor.exe
+C:\Users\user\source\repos\Exercise 12 - Doctor\bin\Debug\netcoreapp3.1\Exercise 12 - Doctor.deps.json
+C:\Users\user\source\repos\Exercise 12 - Doctor\bin\Debug\netcoreapp3.1\Exercise 12 - Doctor.runtimeconfig.json
+C:\Users\user\source\repos\Exercise 12 - Doctor\bin\Debug\netcoreapp3.1\Exercise 12 - Doctor.runtimeconfig.dev.json
+C:\Users\user\source\repos\Exercise 12 - Doctor\bin\Debug\netcoreapp3.1\Exercise 12 - Doctor.dll
+C:\Users\user\source\repos\Exercise 12 - Doctor\bin\Debug\netcoreapp3.1\Exercise 12 - Doctor.pdb
+C:\Users\user\source\repos\Exercise 12 - Doctor\obj\Debug\netcoreapp3.1\Exercise 12 - Doctor.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Exercise 12 - Doctor\obj\Debug\netcoreapp3.1\Exercise 12 - Doctor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Exercise 12 - Doctor\obj\Debug\netcoreapp3.1\Exercise 12 - Doctor.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exercise 12 - Doctor\obj\Debug\netcoreapp3.1\Exercise 12 - Doctor.AssemblyInfo.cs
+C:\Users\user\source\repos\Exercise 12 - Doctor\obj\Debug\netcoreapp3.1\Exercise 12 - Doctor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exercise 12 - Doctor\obj\Debug\netcoreapp3.1\Exercise 12 - Doctor.dll
+C:\Users\user\source\repos\Exercise 12 - Doctor\obj\Debug\netcoreapp3.1\Exercise 12 - Doctor.pdb
+C:\Users\user\source\repos\Exercise 12 - Doctor\obj\Debug\netcoreapp3.1\Exercise 12 - Doctor.genruntimeconfig.cache
